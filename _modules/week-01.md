@@ -3,8 +3,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
 ---
 
 1
-: [Introduction](#)
-  : [Slides](#)
+: [Introduction](../assets/slides/CIS350-1-Introduction.pdf)
+  : [Slides](../assets/slides/CIS350-1-Introduction.pdf)
 
 2
 : [Ethics](#)
