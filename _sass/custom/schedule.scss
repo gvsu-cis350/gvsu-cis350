@@ -103,5 +103,9 @@
     &.office-hours {
       background-color: $blue-000;
     }
+
+    &.meeting-minutes-due-by-midnight {
+      background-color: $red-000;
+    }
   }
 }

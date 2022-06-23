@@ -21,46 +21,50 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Section 02
+        start: 10:00 AM
+        end: 10:50 AM
+        location: MAK D1-117
+      - name: Section 01
+        start: 1:00 PM
+        end: 1:50 PM
+        location: MAK D1-117
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 11:00 AM
+        end: 12:00 PM
+        location: MAK D2-210
   - name: Tuesday
+    events:
+      - name: Meeting minutes due by midnight!
+        start: 9:00 AM
+        end: 10:00 AM
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Section 02
+        start: 10:00 AM
+        end: 10:50 AM
+        location: MAK D1-117
+      - name: Section 01
+        start: 1:00 PM
+        end: 1:50 PM
+        location: MAK D1-117
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 11:00 AM
+        end: 12:00 PM
+        location: MAK D2-210
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Section 02
+        start: 10:00 AM
+        end: 10:50 AM
+        location: MAK D1-117
+      - name: Section 01
+        start: 1:00 PM
+        end: 1:50 PM
+        location: MAK D1-117
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 11:00 AM
+        end: 12:00 PM
+        location: MAK D2-210
 ---

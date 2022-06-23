@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: CIS350 - Software Engineering
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: Software Engineering
 ---
 
 # Just the Class

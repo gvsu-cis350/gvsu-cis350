@@ -1,23 +1,51 @@
 ---
-title: Introduction to Java
+title: Modules for CIS350 - Intro. to Software Engineering
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+1
+: [Introduction](#)
+  : [Slides](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+2
+: [Ethics](#)
+  : [Slides](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+3
+: [Software Process Models](#)
+  : [Slides](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+4
+: [Configuration Management](#)
+  : [Slides](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+5
+: [Specification](#)
+  : [Slides](#)
+
+6
+: [Project Management](#)
+  : [Slides](#)
+
+7
+: [Unified Modeling Language (UML)](#)
+  : [Slides](#)
+
+8
+: [Object-Oriented Analysis and Design](#)
+  : [Slides](#)
+
+9
+: [Design Patterns](#)
+  : [Slides](#)
+
+10
+: [Verification and Validation](#)
+  : [Slides](#)
+
+11
+: [System Building](#)
+  : [Slides](#)
+
+12
+: [Remaining Material](#)
+  : [Slides](#)
