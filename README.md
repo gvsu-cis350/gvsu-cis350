@@ -29,7 +29,7 @@ Class meets 3 times a week in person.  Typically class will comprise a lecture w
 
 ## Term Project
 
-There will be a semester-long team-based term project.  Check out the [term projects page](/term-projects) for more details.
+There will be a semester-long team-based term project.  Check out the [term projects page](term-projects) for more details.
 
 
 ## Resources
