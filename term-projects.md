@@ -11,6 +11,8 @@ One thing to keep in mind is that I will be keeping an eye on your commit histor
 
 Your **overall task** is to create a functioning product that uses the software engineering techniques we talk about in class.  Your project deliverables will approximately follow what we're talking about in class.
 
+---
+
 ## Things You Will Need to Do:
 
 1. Form a project team and decide on your project
@@ -23,27 +25,36 @@ Your **overall task** is to create a functioning product that uses the software 
 7. Present your final product at the end of the semester
 8. Evaluate your teammates at the end of the semester
 
-# Project Examples
+---
+
+## Project Examples
 
 Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language you want.  Feel free to use pre-existing libraries and/or development environments (e.g., Unity, Godot, RPGMaker, etc.) to get you going - the focus is on the **process*.  However, if you have no pre-defined expectations of what you want to work on then this list may be helpful to get you thinking:
 
-## Games
+### Games
 
 * Roguelike
 * Procedurally-generated 2D space game
 * Role-playing games
 * 2D platformer
+* 2D shmup
+* Halo clone with multiplayer
 * Text adventure
 * Interactive fiction
+* 1st-person horror VR 
 
-## Non-games
+### Non-games
 
 * Crypto tracker
+* Cloud-based pentesting suite
+* Disc golf finder (Arduino + RFID)
 * Sensor monitor (Rasperry Pi + sensors + display)
 * Fitness tracker
 * Hiking tracker
 
-# Project Tips
+---
+
+## Project Tips
 
 * Ensure you pick something achievable for your team.  For example, if nobody has any Python experience it might not make sense to write your project in Python.  Conversely, if there is something you *really want to learn* then this might be a good opportunity to do that.  Just ensure that you scope your project appropriately (e.g., don't shoot for an MMO if you've never written networking code before).
 * Pick a project that *you've always wanted to work on, but never have had time to do that*.  I view this project as a forced push to do something interesting.
@@ -52,6 +63,8 @@ Your team has the option to choose whatever project you wish to work on (pending
 * **DO NOT** simply clone/copy someone else's project (either from this class or the Internet) and call it your own without significant iteration.  For example, you can use the Unity tutorials or microgame starters as long as you **significantly extend** them.
 * Keep up with your weekly meetings and keep in contact with your teammates.  If you wait until a deadline it is going to be *significantly* more stressful than if you make progress throughout the semester.
 * I will not be micromanaging your projects - that is up to your teams.  If you are not making appropriate progress then that will be reflected in your grade!
+
+---
 
 ## Weekly Meetings
 
