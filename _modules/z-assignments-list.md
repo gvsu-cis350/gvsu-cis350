@@ -5,35 +5,45 @@ title: Expected Assignments
 **Note - all assignment files are hosted/submitted within [Blackboard](https://lms.gvsu.edu)**
 
 &nbsp;
-: **Homework**{: .label .label-purple } Prerequisites and Ethics
+: Prerequisites and Ethics 
+  : **Homework**{: .label .label-purple } 
 
 &nbsp;
-: **Team Homework**{: .label .label-green } Team Formation
+: Team Formation 
+  : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: **Homework**{: .label .label-purple } Intro to Git -- **possible lab**?
+: Intro to Git -- **possible lab**? 
+  : **Homework**{: .label .label-purple }
 
 &nbsp;
-: **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } Setup Git Repositories
+: Setup Git Repositories 
+  : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: **Team Homework**{: .label .label-green } Requirements and Use Cases
+: Requirements and Use Cases 
+  : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } Project Planning
+: Project Planning 
+  : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: **Team Homework**{: .label .label-green } Midterm Presentations
+: Midterm Presentations 
+  : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: **Homework**{: .label .label-purple } Design Pattern Implementation
+: Design Pattern Implementation 
+  : **Homework**{: .label .label-purple } 
 
 &nbsp;
-: **Lab**{: .label .label-blue } Continuous Integration
+: Continuous Integration 
+  : **Lab**{: .label .label-blue } 
 
 &nbsp;
-: **Homework**{: .label .label-purple } Teammate Evaluation
+: Teammate Evaluation 
+  : **Homework**{: .label .label-purple } 
 
 &nbsp;
-: **Team Homework**{: .label .label-green } Final Presentations
-
+: Final Presentations 
+  : **Team Homework**{: .label .label-green } 

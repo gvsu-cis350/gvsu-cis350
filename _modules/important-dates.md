@@ -2,11 +2,11 @@
 title: Important Dates - Fall 2022
 ---
 
-{: .label .label-purple } No class
+{: .label .label-yellow } No class
 : September 4-5
   : Labor Day recess
 
-{: .label .label-purple } No class
+{: .label .label-yellow } No class
 : October 23-25
   : Fall break
 
@@ -14,15 +14,15 @@ title: Important Dates - Fall 2022
 : October X
   : Midterm exam
 
-{: .label .label-red } Deliverable
+{: .label .label-purple } Deliverable
 : October X
   : Term project status updates
 
-{: .label .label-purple } No class
+{: .label .label-yellow } No class
 : November 23-27
   : Thanksgiving recess
 
-{: .label .label-red } Deliverable
+{: .label .label-purple } Deliverable
 : December 7 and 9
   : Term project presentations
 
