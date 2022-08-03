@@ -21,10 +21,6 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
       - name: Section 01
         start: 1:00 PM
         end: 1:50 PM
@@ -40,10 +36,6 @@ schedule:
         end: 10:00 AM
   - name: Wednesday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
       - name: Section 01
         start: 1:00 PM
         end: 1:50 PM
@@ -55,10 +47,6 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
       - name: Section 01
         start: 1:00 PM
         end: 1:50 PM

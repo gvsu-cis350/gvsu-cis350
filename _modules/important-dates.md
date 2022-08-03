@@ -6,17 +6,17 @@ title: Important Dates - Fall 2022
 : September 4-5
   : Labor Day recess
 
-{: .label .label-yellow } No class
-: October 23-25
-  : Fall break
-
 {: .label .label-red } Exam
-: October X
+: October 12th
   : Midterm exam
 
 {: .label .label-purple } Deliverable
-: October X
+: October 14th
   : Term project status updates
+
+{: .label .label-yellow } No class
+: October 23-25
+  : Fall break
 
 {: .label .label-yellow } No class
 : November 23-27
@@ -31,5 +31,5 @@ title: Important Dates - Fall 2022
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: December X @ 11:59pm
+: December 12th @ 12:00pm - 1:50pm
   : Final exam
