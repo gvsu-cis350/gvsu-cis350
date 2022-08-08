@@ -13,7 +13,7 @@ title: Expected Assignments
   : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: Intro to Git -- **possible lab**? 
+: Intro to Git
   : **Homework**{: .label .label-purple }
 
 &nbsp;

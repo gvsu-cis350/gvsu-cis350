@@ -12,41 +12,41 @@ title: Modules for CIS350 - Intro. to Software Engineering
 
 
 3
-: [Software Process Models](#)
-  : [Slides](#)
+: Software Process Models
+  : Slides
 
 4
-: [Configuration Management](#)
-  : [Slides](#)
+: Configuration Management
+  : Slides
 
 5
-: [Specification](#)
-  : [Slides](#)
+: Specification
+  : Slides
 
 6
-: [Project Management](#)
-  : [Slides](#)
+: Project Management
+  : Slides
 
 7
-: [Unified Modeling Language (UML)](#)
-  : [Slides](#)
+: Unified Modeling Language (UML)
+  : Slides
 
 8
-: [Object-Oriented Analysis and Design](#)
-  : [Slides](#)
+: Object-Oriented Analysis and Design
+  : Slides
 
 9
-: [Design Patterns](#)
-  : [Slides](#)
+: Design Patterns
+  : Slides
 
 10
-: [Verification and Validation](#)
-  : [Slides](#)
+: Verification and Validation
+  : Slides
 
 11
-: [System Building](#)
-  : [Slides](#)
+: System Building
+  : Slides
 
 12
-: [Remaining Material](#)
-  : [Slides](#)
+: Remaining Material
+  : Slides
