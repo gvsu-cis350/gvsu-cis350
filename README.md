@@ -23,7 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Sept. 7th by 11:59pm** - HW1 (Prerequisites and Ethics)
+* **Sept. 9th by 11:59pm** - HW1 (Prerequisites and Ethics)
 
 ## Course Description
 
