@@ -12,8 +12,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
 
 
 3
-: [Software Process Models](../assets/slidse/CIS350-3-What_is_SE.pdf){:target="_blank"}
-  : [Slides](../assets/slidse/CIS350-3-What_is_SE.pdf){:target="_blank"}
+: [Software Process Models](../assets/slides/CIS350-3-What_is_SE.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-3-What_is_SE.pdf){:target="_blank"}
 
 4
 : Configuration Management
