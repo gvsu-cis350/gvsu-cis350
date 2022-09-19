@@ -23,7 +23,9 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Sept. 26th by 11:59pm** - HW2 (GitHub Repositories)
+* **Sept. 19th by 11:59pm** - HW2-1 (Intro to Git)
+* **Sept. 20th by 11:59pm** - IC2
+* **Sept. 26th by 11:59pm** - HW2-2 (GitHub Repositories)
 
 ## Course Description
 
