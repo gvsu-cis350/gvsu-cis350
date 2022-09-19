@@ -20,12 +20,12 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-4-Process_Models_1.pdf){:target="_blank"}
 
 5
-: [Software Process Models 2](../assets/slides/CIS350-5-Process_Models_2.pdf}{:target="_blank"}
-  : [Slides](../assets/slides/CIS350-5-Process_Models_2.pdf}{:target="_blank"}
+: [Software Process Models 2](../assets/slides/CIS350-5-Process_Models_2.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-5-Process_Models_2.pdf){:target="_blank"}
 
 6
-: [Configuration Management](../assets/slides/CIS350-6-Configuration_Management_1.pdf}{:target="_blank"}
-  : [Slides](../assets/slides/CIS350-6-Configuration_Management_1.pdf}{:target="_blank"}
+: [Configuration Management](../assets/slides/CIS350-6-Configuration_Management_1.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-6-Configuration_Management_1.pdf){:target="_blank"}
 
 7
 : Specification
