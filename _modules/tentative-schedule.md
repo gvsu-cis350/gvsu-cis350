@@ -30,8 +30,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-7-Configuration_Management_2.pdf){:target="_blank"}
 
 7
-: Specification
-  : Slides
+: [Requirements 1](../assets/slides/CIS350-8-Requirements_1.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-8-Requirements_1.pdf){:target="_blank"}
 
 8
 : Project Management
