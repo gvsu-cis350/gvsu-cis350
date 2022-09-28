@@ -32,6 +32,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
 7
 : [Requirements 1](../assets/slides/CIS350-8-Requirements_1.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-8-Requirements_1.pdf){:target="_blank"}
+: [Requirements 2](../assets/slides/CIS350-9-Requirements_2.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-9-Requirements_2.pdf){:target="_blank"}
 
 8
 : Project Management
