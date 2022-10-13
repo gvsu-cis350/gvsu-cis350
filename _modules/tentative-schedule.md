@@ -42,6 +42,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-11-Project_Management_and_Planning_1.pdf){:target="_blank"}
 : [Project Management 2](../assets/slides/CIS350-12-Project_Management_and_Planning_2.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-12-Project_Management_and_Planning_2.pdf){:target="_blank"}
+: [Project Management 3](../assets/slides/CIS350-13-Project_Management_and_Planning_3.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-13-Project_Management_and_Planning_3.pdf){:target="_blank"}
 
 
 9
