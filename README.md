@@ -23,7 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Oct. 10th by 11:59pm** - HW3
+* **Oct. 19th** - Term project presentations
 
 ## Course Description
 
