@@ -24,6 +24,8 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * **Oct. 19th** - Term project presentations
+  * Ensure you check your slides into your team's GitHub the day of your presentation!
+* **Oct. 21st** - HW4
 
 ## Course Description
 
