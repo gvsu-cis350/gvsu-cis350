@@ -45,10 +45,9 @@ title: Modules for CIS350 - Intro. to Software Engineering
 : [Project Management 3](../assets/slides/CIS350-13-Project_Management_and_Planning_3.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-13-Project_Management_and_Planning_3.pdf){:target="_blank"}
 
-
 9
-: Unified Modeling Language (UML)
-  : Slides
+: [Unified Modeling Language (UML)](../assets/slides/CIS350-14-UML.pdf}{:target="_blank"}
+  : [Slides](../assets/slides/CIS350-14-UML.pdf}{:target="_blank"}
 
 10
 : Object-Oriented Analysis and Design
