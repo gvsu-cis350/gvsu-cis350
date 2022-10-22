@@ -24,7 +24,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * **Oct. 21st** - HW4
-* **Oct. 26th** - Term project interim assignment
+* **Oct. 28th** - Term project interim assignment
 
 ## Course Description
 
