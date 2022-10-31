@@ -50,11 +50,11 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-14-UML.pdf}{:target="_blank"}
 
 10
-: Object-Oriented Analysis and Design
-  : Slides
+: [Design Patterns 1](../assets/slides/CIS350-15-Design-Patterns-1.pdf}{:target="_blank"}
+  : [Slides](../assets/slides/CIS350-15-Design-Patterns-1.pdf}{:target="_blank"}
 
 11
-: Design Patterns
+: Object-Oriented Analysis and Design
   : Slides
 
 12
