@@ -47,11 +47,11 @@ title: Modules for CIS350 - Intro. to Software Engineering
 
 9
 : [Unified Modeling Language (UML)](../assets/slides/CIS350-14-UML.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS350-14-UML.pdf}{:target="_blank"}
+  : [Slides](../assets/slides/CIS350-14-UML.pdf){:target="_blank"}
 
 10
 : [Design Patterns 1](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS350-15-Design-Patterns-1.pdf}{:target="_blank"}
+  : [Slides](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="_blank"}
 
 11
 : Object-Oriented Analysis and Design
