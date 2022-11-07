@@ -23,8 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Oct. 21st** - HW4
-* **Oct. 28th** - Term project interim assignment
+* **Nov. 8th** - IC4
 
 ## Course Description
 

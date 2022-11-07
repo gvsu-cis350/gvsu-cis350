@@ -54,6 +54,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="_blank"}
 : [Design Patterns 2](../assets/slides/CIS350-16-Design-Patterns-2.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-16-Design-Patterns-2.pdf){:target="_blank"}
+: [Design Patterns 3](../assets/slides/CIS350-17-Design-Patterns-3.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-17-Design-Patterns-3.pdf){:target="_blank"}
 
 11
 : Object-Oriented Analysis and Design
