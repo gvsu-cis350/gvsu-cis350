@@ -23,8 +23,6 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Nov. 8th** - IC4
-
 ## Course Description
 
 * Systems development life cycle from project request through project implementation and evaluation. 
