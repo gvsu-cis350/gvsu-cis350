@@ -62,6 +62,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
 11
 : [Object-Oriented Analysis and Design 1](../assets/slides/CIS350-19-OOP-OOD-OOA-1.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-19-OOP-OOD-OOA-1.pdf){:target="_blank"}
+: [Object-Oriented Analysis and Design 2](../assets/slides/CIS350-20-OOP-OOD-OOA-2.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS350-20-OOP-OOD-OOA-2.pdf){:target="_blank"}
 
 12
 : Verification and Validation
