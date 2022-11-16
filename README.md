@@ -25,6 +25,7 @@ seo:
 
 * IC4 - Nov 12th
 * HW5 - Nov 21st
+* Final deliverables - Dec 10th
 
 ## Course Description
 
