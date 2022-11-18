@@ -23,7 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC4 - Nov 12th
+* IC5 - Nov 19th
 * HW5 - Nov 21st
 * Final deliverables - Dec 10th
 
