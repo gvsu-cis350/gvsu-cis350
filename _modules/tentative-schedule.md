@@ -68,6 +68,8 @@ title: Modules for CIS350 - Intro. to Software Engineering
 12
 : [Test-Driven Development](../assets/slides/CIS350-21-Test-driven-Development){:target="\_blank"}
   : [Slides](../assets/slides/CIS350-21-Test-driven-Development){:target="\_blank"}
+: [Verification 1](../assets/slides/CIS350-22-Verification-1.pdf){:target="\_blank"}
+  : [Slides](../assets/slides/CIS350-22-Verification-1.pdf){:target="\_blank"}
 
 13
 : System Building
