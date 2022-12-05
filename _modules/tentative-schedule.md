@@ -74,9 +74,5 @@ title: Modules for CIS350 - Intro. to Software Engineering
   : [Slides](../assets/slides/CIS350-23-Verification-2.pdf){:target="\_blank"}
 
 13
-: System Building
-  : Slides
-
-14
-: Remaining Material
-  : Slides
+: [System Building](../assets/slides/CIS350-24-System-Building.pdf){:target="\_blank"}
+  : [Slides](../assets/slides/CIS350-24-System-Building.pdf){:target="\_blank"}
