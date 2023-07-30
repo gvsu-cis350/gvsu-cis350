@@ -19,15 +19,9 @@ seo:
 
 ---
 
-## REMINDER
-
-**Class Nov. 28th will be in HRY116!**
-
 ## Upcoming Deadlines
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
-
-* Final deliverables - Dec 10th
 
 ## Course Description
 
