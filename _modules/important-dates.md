@@ -1,5 +1,5 @@
 ---
-title: Important Dates - Fall 2022
+title: Important Dates - Fall 2023
 ---
 
 {: .label .label-yellow } No class

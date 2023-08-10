@@ -78,6 +78,8 @@ Your team has the option to choose whatever project you wish to work on (pending
 
 Each week your team is required to meet (except where otherwise noted) and to create and submit a Meeting Minutes document.  I have a [template](https://github.com/gvsu-cis350/base/tree/master/meetings) in the project start repository for you to fill out.  Ensure you check in your minutes by each week's due date.
 
+Note: you are expected to have a minimum of **eight** meeting minutes posted to your repositories at appropriate dates.
+
 ## Team Member Issues
 
 No matter how much you try, there will inevitably be friction on project teams.  *Interestingly enough - this carries over to industry - learning how to work together and have open discussions is a critical skill that will help you throughout your career*.  If you are struggling with your team and/or teammates, here are a few tips to help:

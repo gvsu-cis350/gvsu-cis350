@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Calendar / Slides
 description: Listing of course modules and topics.
 ---
 
