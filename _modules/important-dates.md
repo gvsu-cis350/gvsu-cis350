@@ -7,7 +7,7 @@ title: Important Dates - Fall 2023
   : Labor Day recess
 
 {: .label .label-red } Exam
-: TBD ~ mid October <!-- October 12th -->
+: October 11th
   : Midterm exam
 
 {: .label .label-purple } Deliverable
@@ -31,5 +31,5 @@ title: Important Dates - Fall 2023
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: TBD <!-- December 12th @ 12:00pm - 1:50pm -->
+: December 11th @ 12:00pm - 1:50pm
   : Final exam

@@ -20,7 +20,7 @@ author: Erik Fredericks
 baseurl: '/gvsu-cis350' # the subpath of your site, e.g. /blog
 url: 'https://gvsu-cis350.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: ''
-#url: 'http://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
+# url: 'http://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
