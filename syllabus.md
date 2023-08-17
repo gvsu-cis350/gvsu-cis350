@@ -7,7 +7,7 @@ description: >-
 
 # Syllabus
 
-* [Fall 2022](/assets/Syllabus_F2023_CIS350-01_Fredericks.pdf){:target="_blank"}
+* [Fall 2023](/assets/Syllabus_F2023_CIS350-01_Fredericks.pdf){:target="_blank"}
 * [Bitsy - Interactive Syllabus](https://efredericks.github.io/CIS-three-fitsy/){:target="_blank"}
 
 # Plagiarism Policy
