@@ -9,7 +9,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Ethics](../assets/slides/CIS350-2-Ethics.pdf){:target="\_blank"}
 
 3
-: What is Software Engineering?
+: [What is Software Engineering?](../assets/slides/CIS350-3-What_is_SE.pdf){:target="\_blank"}
 
 4
 : Software Process Models 1
