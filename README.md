@@ -23,6 +23,8 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* HW2.1 - September 19th
+
 ## Course Description
 
 * Systems development life cycle from project request through project implementation and evaluation. 
