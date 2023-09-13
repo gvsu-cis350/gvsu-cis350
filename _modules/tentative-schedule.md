@@ -12,7 +12,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [What is Software Engineering? (updated 09/08)](../assets/slides/CIS350-3-What_is_SE.pdf){:target="\_blank"}
 
 4
-: [Software Process Models 1](../assets/slides/CIS350-4-Process_Models_1.pdf){:target="\_blank"}
+: [Software Process Models 1 (updated 09/13)](../assets/slides/CIS350-4-Process_Models_1.pdf){:target="\_blank"}
 
 5
 : Software Process Models 2
