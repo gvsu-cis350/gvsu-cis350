@@ -15,7 +15,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Software Process Models 1 (updated 09/13)](../assets/slides/CIS350-4-Process_Models_1.pdf){:target="\_blank"}
 
 5
-: Software Process Models 2
+: [Software Process Models 2](../assets/slides/CIS350-5-Process_Models_2.pdf){:target="\_blank"}
 
 6
 : Configuration Management 1
