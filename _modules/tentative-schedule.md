@@ -22,7 +22,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Configuration Management 2](../assets/slides/CIS350-7-Configuration_Management_2.pdf){:target="\_blank"}
 
 7
-: Requirements 1
+: [Requirements 1](../assets/slides/CIS350-8-Requirements_1.pdf){:target="\_blank"}
 : Requirements 2
 : Requirements 3
 
