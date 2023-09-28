@@ -23,8 +23,8 @@ title: Slides for CIS350 - Intro. to Software Engineering
 
 7
 : [Requirements 1](../assets/slides/CIS350-8-Requirements_1.pdf){:target="\_blank"}
-: Requirements 2
-: Requirements 3
+: [Requirements 2](../assets/slides/CIS350-9-Requirements_2.pdf){:target="\_blank"}
+: [Requirements 3](../assets/slides/CIS350-10-Requirements_3.pdf){:target="\_blank"}
 
 8
 : Project Management 1
