@@ -24,6 +24,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * IC3 - September 30th
+* ** NO CLASS OCTOBER 6TH!! - See Blackboard for out-of-class lab **
 * Midterm - October 11th
 * HW3 - October 13th
 * Term Project Status Presentations - October 16th
