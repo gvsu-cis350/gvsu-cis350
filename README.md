@@ -23,8 +23,10 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC1 - September 23rd
-* HW2.2 - September 27th
+* IC3 - September 30th
+* Midterm - October 11th
+* HW3 - October 13th
+* Term Project Status Presentations - October 16th
 
 ## Course Description
 
