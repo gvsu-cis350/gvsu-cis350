@@ -27,7 +27,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Requirements 3](../assets/slides/CIS350-10-Requirements_3.pdf){:target="\_blank"}
 
 8
-: Project Management 1
+: [Project Management 1](../assets/slides/CIS350-11-Project_Management_and_Planning_1.pdf){:target="\_blank"}
 : Project Management 2
 : Project Management 3
 
