@@ -27,7 +27,8 @@ seo:
 * ** NO CLASS OCTOBER 6TH!! - See Blackboard for out-of-class lab **
 * Midterm - October 11th
 * HW3 - October 13th
-* Term Project Status Presentations - October 16th
+* Term Project Status Presentations Submissions - October 17th
+* Term Project Status Presentations - October 18th
 
 ## Course Description
 
