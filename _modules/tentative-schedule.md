@@ -28,8 +28,8 @@ title: Slides for CIS350 - Intro. to Software Engineering
 
 8
 : [Project Management 1](../assets/slides/CIS350-11-Project_Management_and_Planning_1.pdf){:target="\_blank"}
-: Project Management 2
-: Project Management 3
+: [Project Management 2](../assets/slides/CIS350-11-Project_Management_and_Planning_2.pdf){:target="\_blank"}
+: [Project Management 3](../assets/slides/CIS350-11-Project_Management_and_Planning_3.pdf){:target="\_blank"}
 
 9
 : Unified Modeling Language (UML)
