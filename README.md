@@ -26,7 +26,7 @@ seo:
 * IC3 - September 30th
 * ** NO CLASS OCTOBER 6TH!! - See Blackboard for out-of-class lab **
 * Midterm - October 11th
-* HW3 - October 13th
+* HW3 - October 16th ~~13th~~
 * Term Project Status Presentations Submissions - October 17th
 * Term Project Status Presentations - October 18th
 
