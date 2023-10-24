@@ -35,7 +35,7 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Unified Modeling Language (UML)](../assets/slides/CIS350-14-UML.pdf){:target="\_blank"}
 
 10
-: Design Patterns 1
+: [Design Patterns 1](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="\_blank"}
 : Design Patterns 2
 : Design Patterns 3
 : Design Patterns 4
