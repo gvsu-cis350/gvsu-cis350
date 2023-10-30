@@ -36,9 +36,9 @@ title: Slides for CIS350 - Intro. to Software Engineering
 
 10
 : [Design Patterns 1](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="\_blank"}
-: Design Patterns 2
-: Design Patterns 3
-: Design Patterns 4
+: [Design Patterns 2](../assets/slides/CIS350-16-Design-Patterns-2.pdf){:target="\_blank"}
+: [Design Patterns 3](../assets/slides/CIS350-17-Design-Patterns-3.pdf){:target="\_blank"}
+: [Design Patterns 4](../assets/slides/CIS350-18-Design-Patterns-4.pdf){:target="\_blank"}
 
 11
 : Object-Oriented Analysis and Design 1
