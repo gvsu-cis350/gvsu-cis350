@@ -41,8 +41,8 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Design Patterns 4](../assets/slides/CIS350-18-Design-Patterns-4.pdf){:target="\_blank"}
 
 11
-: Object-Oriented Analysis and Design 1
-: Object-Oriented Analysis and Design 2
+: [Object-Oriented Analysis and Design 1](../assets/slides/CIS350-19-OOP-OOD-OOA-1.pdf){:target="\_blank"}
+: [Object-Oriented Analysis and Design 2](../assets/slides/CIS350-20-OOP-OOD-OOA-2.pdf){:target="\_blank"}
 
 12
 : Test-Driven Development
