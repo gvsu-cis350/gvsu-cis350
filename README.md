@@ -19,6 +19,8 @@ seo:
 
 ---
 
+## NOTE: CLASS NOV 8 (WED) WILL BE ON ZOOM
+
 ## Upcoming Deadlines
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
