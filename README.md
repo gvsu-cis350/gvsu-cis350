@@ -28,6 +28,9 @@ seo:
 
 * IC5 - November 9th
 * HW5 - November 21st
+* Final presentations - December 4th and 6th
+* No class December 8th
+* Final deliverables - December 9th (no late submissions accepted)
 
 ## Course Description
 
