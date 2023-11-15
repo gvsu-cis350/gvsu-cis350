@@ -8,7 +8,7 @@ seo:
   name: Software Engineering
 ---
 
-# NOTE: CLASS NOV 8 (WED) WILL BE ON ZOOM
+# NOTE: CLASS NOV 13, 15 and 17 WILL BE ON ZOOM
 
 # CIS350 - Intro to Software Engineering
 {:.no_toc}
