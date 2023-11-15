@@ -26,7 +26,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC5 - November 9th
+* IC6 - November 16th
 * HW5 - November 21st
 * Final presentations - December 4th and 6th
 * No class December 8th
