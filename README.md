@@ -8,8 +8,6 @@ seo:
   name: Software Engineering
 ---
 
-# NOTE: CLASS NOV 20 WILL BE ON ZOOM
-
 # CIS350 - Intro to Software Engineering
 {:.no_toc}
 
@@ -26,8 +24,6 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC6 - November 16th
-* HW5 - November 21st
 * Final presentations - December 4th and 6th
 * No class December 8th
 * Final deliverables - December 9th (no late submissions accepted)
