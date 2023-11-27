@@ -8,6 +8,8 @@ seo:
   name: Software Engineering
 ---
 
+# LAB DAY - DEC 1 (MAK A2151)
+
 # CIS350 - Intro to Software Engineering
 {:.no_toc}
 
