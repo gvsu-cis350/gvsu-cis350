@@ -26,6 +26,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* CI lab - December 8th
 * Final presentations - December 4th and 6th
 * No class December 8th
 * Final deliverables - December 9th (no late submissions accepted)
