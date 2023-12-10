@@ -50,4 +50,4 @@ title: Slides for CIS350 - Intro. to Software Engineering
 : [Verification 2 (updated 11/29)](../assets/slides/CIS350-23-Verification-2.pdf){:target="\_blank"}
 
 13
-: System Building
+: [System Building](../assets/slides/CIS350-24-SystemBuilding.pdf){:target="\_blank"}
